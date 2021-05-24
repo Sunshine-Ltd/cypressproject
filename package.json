@@ -1,0 +1,25 @@
+{
+  "name": "cypressproject",
+  "version": "1.0.0",
+  "description": "newproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mubeenakausar267/TestRepo.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Mubeena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mubeenakausar267/TestRepo/issues"
+  },
+  "homepage": "https://github.com/mubeenakausar267/TestRepo#readme",
+  "devDependencies": {
+    "cypress": "^7.3.0"
+  }
+}
